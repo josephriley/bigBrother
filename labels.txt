@@ -1,4 +1,11 @@
+Ambulance
+Army
 Civilian
 EMT
+Fire Truck
 Firefighter
+Helicopter
 Police
+Police Vehicle
+Swat Team
+Swat Truck
